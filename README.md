@@ -28,7 +28,7 @@ This is a simple chat application built with React for the frontend and Node.js 
 7. Start the frontend server: npm start
 
 # Usage
-1. Open your web browser and go to `http://localhost:3000`.
+1. Open your web browser and go to `http://localhost:5174`.
 2. Set a username to get started.
 3. Once authenticated, you will be redirected to the chat page where you can join chat rooms and communicate with other users.
 
